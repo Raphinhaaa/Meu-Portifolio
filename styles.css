@@ -159,12 +159,6 @@ img {
   margin-left: 10px;
 }
 
-.caixa a {
-  color: #b517f7;
-  font-weight: bold;
-  text-decoration: none;
-
-}
 
 .caixa a:hover {
   text-decoration: underline;
