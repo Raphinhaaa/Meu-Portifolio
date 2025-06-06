@@ -38,68 +38,6 @@ img {
 }
 
 
-
-
-.botoes {
-  display: flex;
-  gap: 10px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 10px;
-}
-
-.botao {
-  border: 2px solid #767676;
-  padding: 8px 16px;
-  color: white;
-  background-color: transparent;
-  border-radius: 6px;
-  font-family: Arial, sans-serif;
-  font-size: 16px;
-  cursor: pointer;
-  transition: background-color 0.50s;
-}
-
-.botao:hover {
-  background-color: #7e7e7e;
-}
-
-
-h1 {
-  margin-bottom: 30px;
-  text-align: center;
-  font-size: 15px;
-}
-
-h2,
-h3 {
-  margin-bottom: 30px;
-  text-align: center;
-}
-
-h4 {
-  text-align: left;
-  margin-left: 20px;
-  font-size: 30px;
-}
-
-.container {
-  text-align: center;
-}
-
-img {
-  display: block;
-  margin: 0 auto;
-  border-radius: 10px;
-  margin-bottom: 20px;
-  width: 400px;
-  height: 300px;
-}
-
-
-
-
 .botoes {
   display: flex;
   gap: 10px;
@@ -163,3 +101,65 @@ img {
 .caixa a:hover {
   text-decoration: underline;
 }
+
+
+h1 {
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 15px;
+}
+
+h2,
+h3 {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+h4 {
+  text-align: left;
+  margin-left: 20px;
+  font-size: 30px;
+}
+
+.container {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  width: 400px;
+  height: 300px;
+}
+
+
+
+
+.botoes {
+  display: flex;
+  gap: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10px;
+}
+
+.botao {
+  border: 2px solid #767676;
+  padding: 8px 16px;
+  color: white;
+  background-color: transparent;
+  border-radius: 6px;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.50s;
+}
+
+.botao:hover {
+  background-color: #7e7e7e;
+}
+
+
